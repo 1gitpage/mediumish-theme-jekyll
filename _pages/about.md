@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Prozerpina Template for Jekyll
 permalink: /about
 comments: true
 ---
